@@ -4,7 +4,7 @@
 <p>My name is Juan Manuel Araoz, I am a <b>data-oriented programmer</b> with a preference for data engineering and data science.<br> I've been in the technologic industry for a while, i started my studies with electronics and now i'm immersing myself into the world of the data.</p>
 
 <h1><b>What do i do?</b></h1>
-<p>I was trained to give <b>solutions focused on data</b>, such as extraction, management, storage and visualization, I am also capable of making forecasts using machine learning models.</p>
+<p>I was trained to give <b>solutions focused on data</b>, such as extraction, management, storage, visualization and predictions using machine learning models.</p>
 
 <h1><b>Technologic Stack</b></h1>
 

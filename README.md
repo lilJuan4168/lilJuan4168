@@ -39,8 +39,8 @@
 
 <table>
 <tr>
-    <th><h2>👉 Databases &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp</h2></th>
-    <th><h2>👉 Others &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp</h2></th>
+    <th><h2>👉 Databases &nbsp &nbsp &nbsp &nbsp &nbsp</h2></th>
+    <th><h2>👉 Others &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp</h2></th>
     <th><h2>👉 Cloud Services &nbsp &nbsp &nbsp</h2></th>
 </tr>
 

@@ -12,15 +12,15 @@
 <table>
 <tr>
     <th><h2> 👉 Data Engineering</h2></th>
-    <th><h2>👉 Data Analytics &nbsp &nbsp &nbsp</h2></th>
-    <th><h2>👉 Data Science &nbsp &nbsp &nbsp &nbsp</h2></th>
+    <th><h2>👉 Data Analytics </h2></th>
+    <th><h2>👉 Data Science </h2></th>
 </tr>
 
 <tr>
     <td><p><img src='img/pythonLogo.png' width=20 height=20> &nbsp Python</p></td>
     <td><p><img src='img/seaborn_logo.png' width=20 height=20> &nbsp Seaborn</p></td>
     <td><p><img src='img/sklearnLogo.png' width=40 height=20> &nbsp Scikit-learn</p></td>
-  </tr>
+</tr>
 
 <tr>
     <td><p><img src='img/numpyLogo.png' width=60 height=20> &nbsp Numpy</p></td>
@@ -33,28 +33,23 @@
     <td><p><img src='img/powerbiLogo.jpg' width=60 height=20> &nbsp PowerBI</p></td>
     <td><p><img src='img/Jupyter_logo.png' width=20 height=20> &nbsp JupyterNotebook</p></td>
   </tr>
-
-</table>
-
-
-<table>
 <tr>
-    <th><h2>👉 Databases &nbsp &nbsp &nbsp &nbsp &nbsp</h2></th>
-    <th><h2>👉 Others &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp</h2></th>
-    <th><h2>👉 Cloud Services &nbsp &nbsp &nbsp</h2></th>
+    <td><h2>👉 Databases</h2></td>
+    <td><h2>👉 Others</h2></td>
+    <td><h2>👉 Cloud</h2></td>
 </tr>
 
 <tr>
     <td><p><img src='img/mysql_logo.png' width=40 height=20> &nbsp MySQL</p></td>
     <td><p><img src='img/docker_logo.png' width=20 height=20> &nbsp Docker</p></td>
     <td><p><img src='img/amazonLogo.png' width=30 height=20> &nbsp Amazon AWS</p></td>
-  </tr>
+</tr>
 
 <tr>
     <td><p><img src='img/postgres_logo.png' width=20 height=20> &nbsp PostgreSQL</p></td>
     <td><p><img src='img/ghLogo.png' width=20 height=20> &nbsp Git-GitHub</p></td>
     <td><p>-------</p></td>
-  </tr>
+</tr>
 
 <tr>
     <td><p><img src='img/mongodb_logo.png' width=20 height=20> &nbsp MongoDB</p></td>
@@ -62,4 +57,4 @@
     <td><p>-------</p></td>
   </tr>
 
-</table>
+

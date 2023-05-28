@@ -8,7 +8,6 @@
 
 <h1><b>Technologic Stack</b></h1>
 
-
 <table>
 <tr>
     <th><h2> 👉 Data Engineering</h2></th>
@@ -57,4 +56,7 @@
     <td><p>-------</p></td>
   </tr>
 
+</table>
 
+<p>&nbsp</p>
+<p><a href="https://www.linkedin.com/in/juanm-araoz4168/"><img alt="juan" title="Connect with Juan" src="https://img.shields.io/badge/Juan Manuel Araoz-0077B5?style=flat&logo=Linkedin&logoColor=white"></a> </pre></p>

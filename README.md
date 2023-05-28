@@ -12,8 +12,8 @@
 <table>
 <tr>
     <th><h2> 👉 Data Engineering</h2></th>
-    <th><h2>👉 Data Analytics</h2></th>
-    <th><h2>👉 Data Science</h2></th>
+    <th><h2>👉 Data Analytics &nbsp &nbsp &nbsp</h2></th>
+    <th><h2>👉 Data Science &nbsp &nbsp &nbsp &nbsp</h2></th>
 </tr>
 
 <tr>
@@ -39,9 +39,9 @@
 
 <table>
 <tr>
-    <th><h2>👉 Databases</h2></th>
-    <th><h2>👉 Collaboration and others</h2></th>
-    <th><h2>👉 Cloud Services</h2></th>
+    <th><h2>👉 Databases &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp</h2></th>
+    <th><h2>👉 Others &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp</h2></th>
+    <th><h2>👉 Cloud Services &nbsp &nbsp &nbsp</h2></th>
 </tr>
 
 <tr>

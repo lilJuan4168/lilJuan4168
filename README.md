@@ -6,7 +6,7 @@
 <h1><b>What do i do?</b></h1>
 <p>I was trained to give <b>solutions focused on data</b>, such as extraction, management, storage, visualization and predictions using machine learning models.</p>
 
-<h1><b>Technologic Stack</b></h1>
+<h1><b>Tech Tools</b></h1>
 
 <table>
 <tr>

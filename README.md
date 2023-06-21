@@ -24,7 +24,7 @@
 <tr>
     <td><p><img src='img/numpyLogo.png' width=60 height=20> &nbsp Numpy</p></td>
     <td><p><img src='img/matplotlibLogo.png' width=50 height=20> &nbsp Matplotlib</p></td>
-    <td><p><img src='img/Tensorflow_logo.png' width=20 height=20> &nbsp TensorFlow</p></td>
+    <td><p><img src='img/pytorch-logo.png' width=20 height=20> &nbsp PyTorch</p></td>
   </tr>
 
 <tr>

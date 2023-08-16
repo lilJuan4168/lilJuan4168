@@ -1,4 +1,6 @@
-<h1><b>Hi there 👋 welcome to lilJuan4168 repository</b> </h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Abel&size=36&center=true&vCenter=true&width=500&height=70&duration=3500&color=F70000&lines=Hi+There!+👋;+I'm+Juan+Araoz!;" />
+</h1>
 
 <h1><b>About me</b></h1>
 <p>My name is Juan Manuel Araoz, I am a <b>data-oriented programmer</b> with a preference for data engineering and data science.<br> I've been in the technologic industry for a while, i started my studies with electronics and now i'm immersing myself into the world of the data.</p>
@@ -57,3 +59,10 @@
 <p><img src='img/ghLogo.png' width=20 height=20> &nbsp GitHub</p>
 
 <p><img src='img/AirflowLogo.png' width=60 height=20> &nbsp Apache-Airflow</p>
+
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,bash" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" /> <br> 
+    <img src="https://skillicons.dev/icons?i=linux" />
+</div>

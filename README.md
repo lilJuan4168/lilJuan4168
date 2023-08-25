@@ -17,7 +17,7 @@
     <img src="https://skillicons.dev/icons?i=linux,docker,git,aws" />
 </div>
 
-<p><b>Languages:</b> Python, c, c++, BashScripting</p>
+<p><b>Programming Languages:</b> Python, BashScripting, C, C++</p>
 
 <p><b>Databases:</b> Mongodb, MySQL, PostgreSQL</p>
 
@@ -25,7 +25,11 @@
 
 <p><b>Data Visualization</b>: PowerBI, Looker Studio</p>
 
-<p><b>Others:</b> Docker, Apache-Airflow, GoogleCloud, AWS, Apache-Spark</p>
+<p><b>Cloud Services:</b> AWS(RDS, EC2, S3), GoogleCloudPlatform(compute engine, sql, mongodbAtlas)</p>
+
+<p><b>OS:</b> linux(debian, arch), Windows</p>
+
+<p><b>Others:</b> Docker, Git, Apache-Airflow, Apache-Spark</p>
 
 <p>&nbsp</p>
 <a href="https://www.linkedin.com/in/juanm-araoz4168/" target="_blank"><img alt="juan" title="Connect with Juan" src="https://img.shields.io/badge/Juan Manuel Araoz-0077B5?style=flat&logo=Linkedin&logoColor=white"></a>

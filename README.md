@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center"><b>About me</b></h1>
-<p>My name is Juan Manuel Araoz, I am a <b>data-oriented programmer</b> with a preference for data engineering and data science.<br> I've been in the technologic industry for a while, i started my studies with electronics and now i'm immersing myself into the world of the data.</p>
+<p>My name is Juan Manuel Araoz, I am a <b>data-oriented programmer</b> with a preference for data engineering and data science.<br> I've been in the technologic industry for a while, i started my studies with electronics and now I'm immersing myself into the world of the data.</p>
 
 <h1 align="center"><b>What do i do?</b></h1>
 <p>I was trained to give <b>solutions focused on data</b>, such as extraction, management, storage, visualization and predictions using machine learning models.</p>
@@ -21,11 +21,11 @@
 
 <p><b>Databases:</b> Mongodb, MySQL, PostgreSQL</p>
 
-<p><b>Machine Learning:</b> Scikit-Learn, Pandas, PyTorch</p>
+<p><b>Machine Learning:</b> Scikit-Learn, PyTorch</p>
 
 <p><b>Data Visualization</b>: PowerBI, Looker Studio</p>
 
-<p><b>Cloud Services:</b> AWS(RDS, EC2, S3), GoogleCloudPlatform(compute engine, sql, mongodbAtlas)</p>
+<p><b>Cloud Services:</b> AWS(RDS, EC2, S3), GoogleCloudPlatform(compute engine, cloud storage, cloud SQL, cloud run)</p>
 
 <p><b>OS:</b> linux(debian, arch), Windows</p>
 

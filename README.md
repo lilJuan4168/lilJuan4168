@@ -25,7 +25,7 @@
 
 <p><b>Data Visualization</b>: PowerBI, Looker Studio</p>
 
-<p><b>Cloud Services:</b> AWS(RDS, EC2, S3, apiGateway, lambda), GoogleCloudPlatform(compute engine, cloud storage, cloud SQL, cloud run)</p>
+<p><b>Cloud Services:</b> AWS(RDS, EC2, S3, apiGateway, lambda, eventBridge), GoogleCloudPlatform(compute engine, cloud storage, cloud SQL, cloud run)</p>
 
 <p><b>OS:</b> linux(debian, arch), Windows</p>
 

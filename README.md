@@ -21,7 +21,7 @@
 
 <p><b>Databases:</b> Mongodb, MySQL, PostgreSQL</p>
 
-<p><b>Machine Learning:</b> Scikit-Learn, PyTorch</p>
+<p><b>Machine Learning:</b> Scikit-Learn, PyTorch, computer vision</p>
 
 <p><b>Data Visualization</b>: PowerBI, Looker Studio</p>
 
@@ -29,7 +29,7 @@
 
 <p><b>OS:</b> linux(debian, arch), Windows</p>
 
-<p><b>Others:</b> Docker, Git, Apache-Airflow, Apache-Spark</p>
+<p><b>Others:</b> Docker, Git, Apache-Airflow</p>
 
 <p>&nbsp</p>
 <a href="https://www.linkedin.com/in/juanm-araoz4168/" target="_blank"><img alt="juan" title="Connect with Juan" src="https://img.shields.io/badge/Juan Manuel Araoz-0077B5?style=flat&logo=Linkedin&logoColor=white"></a>
